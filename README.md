@@ -13,4 +13,4 @@ I have hands-on project experience in manipulating/transforming data, explorator
 * 🧰 Tools: Docker, Databricks, GIT
 
 ## SOCIALS
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parisrohan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://parisrohan.medium.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='30'>](https://www.kaggle.com/parisrohan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/parisrohan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='35'>](https://parisrohan.medium.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='35'>](https://www.kaggle.com/parisrohan)  
