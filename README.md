@@ -12,7 +12,5 @@ I have hands-on project experience in manipulating/transforming data, explorator
 * ☁️ Cloud: AWS EC2, Azure, Heroku
 * 🧰 Tools: Docker, Databricks, GIT
 
-- 📫 How to reach me: rparis97@gmail.com 
-
 ## SOCIALS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ParisRohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parisrohan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://parisrohan.medium.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/parisrohan)  
