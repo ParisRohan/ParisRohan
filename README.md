@@ -4,6 +4,8 @@
 
 I have hands-on project experience in manipulating/transforming data, exploratory data analysis, statistical analysis, hypothesis testing, machine learning model development and deployment, and a good understanding of supervised and unsupervised machine learning algorithms for Regression, Classification, Clustering, and Time-series forecasting.
 
+![](https://komarev.com/ghpvc/?username=parisrohan)
+
 ## SKILLS
 
 * 💻 Programming: Python (data science stack), Java
