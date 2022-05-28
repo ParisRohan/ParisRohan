@@ -1,5 +1,4 @@
-## ABOUT
-### Hi there 👋, I am Rohan
+## Hi, I am Rohan 
 #### I am an aspiring Data Scientist with 2+ years of work experience in the Indian IT sector
 
 I have hands-on project experience in manipulating/transforming data, exploratory data analysis, statistical analysis, hypothesis testing, machine learning model development and deployment, and a good understanding of supervised and unsupervised machine learning algorithms for Regression, Classification, Clustering, and Time-series forecasting.
