@@ -5,8 +5,6 @@ I have hands-on project experience in manipulating/transforming data, explorator
 
 Showcasing my work at <a href="https://parisrohan.github.io/rohan_ds_portfolio">Portfolio</a>💼 
 
-![](https://komarev.com/ghpvc/?username=parisrohan)
-
 ## SKILLS
 
 * 💻 Programming: Python (data science stack), Java
